@@ -1,0 +1,1 @@
+palabras = ['cucaracha', 'abeja', 'mosca']
